@@ -3,7 +3,7 @@
 A modular and object-oriented console-based Student Management System implemented in modern C++.  
 This project demonstrates core software engineering principles including encapsulation, separation of concerns, STL usage, and file persistence.
 
----
+
 
 ## 🔧 Technical Overview
 
@@ -15,7 +15,7 @@ The system is designed with a layered structure:
 
 Data is stored dynamically using `std::vector` and persisted to disk via CSV file handling.
 
----
+
 
 ## 🧠 Engineering Concepts Applied
 
@@ -31,7 +31,7 @@ Data is stored dynamically using `std::vector` and persisted to disk via CSV fil
 - Erase-remove idiom
 - Basic error handling
 
----
+
 
 ## ⚙️ Features
 
@@ -43,7 +43,7 @@ Data is stored dynamically using `std::vector` and persisted to disk via CSV fil
 - Persistent storage (save/load from file)
 - Modular architecture
 
----
+
 
 ## 📁 Project Structure
 student-management-system-cpp/
@@ -67,7 +67,7 @@ Steps:
 2. Build the project
 3. Run the application
 
----
+
 
 ## 📈 Future Improvements
 
@@ -78,7 +78,7 @@ Steps:
 - REST API version
 - Database integration
 
----
+
 
 ## 👩‍💻 Author
 
