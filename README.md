@@ -84,5 +84,5 @@ Steps:
 
 Elif Önder  
 Electrical & Electronics Engineering Student  
-Focused on Embedded Systems & C++ Development
+
 
